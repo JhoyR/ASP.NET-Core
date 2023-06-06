@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gqi4XCtrvsmvXu2fqTeLsYh5wO5MNHFtlKM4Mo3KSiFcjvedw94gOMDT3b9cLhueRBK3TPv77gnytG6zqpVaPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhoy.martins\\ReactJS\\study\\ASP.NET Core\\MyWebAppVSCode\\MyWebAppVSCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhoy.martins\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\jhoy.martins\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
